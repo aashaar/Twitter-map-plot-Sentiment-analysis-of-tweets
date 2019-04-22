@@ -1,0 +1,5 @@
+kibana in ubunutu : 
+https://www.youtube.com/watch?v=GJr_wWq8x3E&t=52s
+
+pyspark in ubuntu:
+http://jmedium.com/pyspark-in-python/
